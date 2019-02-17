@@ -1,0 +1,34 @@
+## Ignore all Test Projects
+
+#[Ss]hared\ Tools/
+#[Ss]hared\Tools/
+#PublishedWS/
+#Visualizers/
+
+#specific Files
+
+#/Service Layers/Fax/Tests/ExcelleRx.Infinity.Fax.Service.Tests/Service References/FortisWebServices.Service
+
+# User-specific files 
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific files
+*.userprefs
+
+#Build results
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio 2015 cache/options directory
+.vs/
+
+
+/packages
+#/UI Projects/Windows/ExcelleRx.Infinity.MMSC/Modules/ExcelleRx.Infinity.MMSC.Modules.Medication/Properties/licenses.licx
+#Server/IPU Web App/._IPUSignalR.csproj
+/Solutions/packages/**
